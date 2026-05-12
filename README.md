@@ -41,13 +41,13 @@ Swoje umiejętności techniczne łączę z pasją do rozwiązywania problemów p
 
 ---
 
-### 📈 GitHub Stats
+### 🌱 Mój Technologiczny Radar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skrzati&show_icons=true&theme=radical&hide_border=true" alt="Statystyki GitHuba" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skrzati&layout=compact&theme=radical&hide_border=true" alt="Top Języki" height="150" />
-</p>
+Nie lubię stać w miejscu. Kiedy nie rozwijam FitLoga ani nie zarządzam zespołem, skupiam się na eksplorowaniu nowych obszarów:
 
+*   🏗️ **Architektura Rozproszona:** Zgłębiam tajniki mikroserwisów na potrzeby projektu uczelnianego.
+*   🔒 **Zaawansowany Spring Security:** Szukam nowych sposobów na jeszcze lepsze zabezpieczanie moich aplikacji.
+*   ☁️ **Cloud & Deployment:** Planuję kolejne kroki, aby wkrótce przenieść moje projekty na wyższy poziom infrastruktury.
 ---
 
 ### 📫 Skontaktuj się ze mną
