@@ -17,6 +17,7 @@ Swoje umiejętności techniczne łączę z pasją do rozwiązywania problemów p
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Biblioteki i Technologie:**
+![Timefold Solver](https://img.shields.io/badge/Timefold_Solver-00D2C4?style=for-the-badge&logo=biocode&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AMWETYWj/1hJwAAAIJJREFUOMvV08ENgCAMRNHfw0gswyZszcIkbMIyTMMmbME+zME0X/wEQ3iC8EMIIWAmMxFRESXv3QoRgZlNVEQh51yBmVREYe+9AjOpiAIA4JzL8P4PdzPzYGa4vzc2Mw+A2zMR0QEA9t6PiAjMrCIKe+8VmElFFM65AjOpiMLMxh3M/M0N8dED98K14hQAAAAASUVORK5CYII=)
@@ -36,7 +37,7 @@ Swoje umiejętności techniczne łączę z pasją do rozwiązywania problemów p
 ### 🚀 Co teraz robię?
 
 * 🏋️‍♂️ Rozwijam **FitLog** – mój autorski projekt Full-Stack (Backend: Java/Spring Boot, Frontend: Angular 21). To kompleksowa aplikacja do śledzenia aktywności fizycznej i treningów. 
-* 🎓 Kieruję pracami **10-osobowego zespołu** na uczelni, tworząc w rozproszonej architekturze aplikację do generowania planów zajęć (Spring Boot + React).
+* 🎓 Kieruję pracami **10-osobowego zespołu** na uczelni, tworząc system do automatycznego generowania planów zajęć. W projekcie łączymy architekturę mikroserwisów opartą na Spring Boot i React z silnikiem optymalizacyjnym **Timefold Solver**, dedykowanym do rozwiązywania problemów planowania (Constraint Solving).
 * 🏆 Biorę udział w **hackathonach**, gdzie testuję nowe technologie, prototypuję MVP i szlifuję pracę zespołową w ekstremalnych warunkach.
 
 ---
@@ -45,6 +46,7 @@ Swoje umiejętności techniczne łączę z pasją do rozwiązywania problemów p
 
 Nie lubię stać w miejscu. Kiedy nie rozwijam FitLoga ani nie zarządzam zespołem, skupiam się na eksplorowaniu nowych obszarów:
 
+*   🧩 **Optymalizacja Kombinatoryczna (AI & Operational Research):** Pogłębiam wiedzę z zakresu algorytmów optymalizacyjnych i efektywnego modelowania ograniczeń przy użyciu solverów biznesowych.
 *   🏗️ **Architektura Rozproszona:** Zgłębiam tajniki mikroserwisów na potrzeby projektu uczelnianego.
 *   🔒 **Zaawansowany Spring Security:** Szukam nowych sposobów na jeszcze lepsze zabezpieczanie moich aplikacji.
 *   ☁️ **Cloud & Deployment:** Planuję kolejne kroki, aby wkrótce przenieść moje projekty na wyższy poziom infrastruktury.
